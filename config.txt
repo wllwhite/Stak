@@ -94,9 +94,9 @@ null,
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.supportxmr.com:3333",
-"wallet_address" : "",
-"pool_password" : "",
+"pool_address" : "xmr-usa.dwarfpool.com:8050",
+"wallet_address" : "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS5qHzpjrMfdHXENVPq.2C4",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
